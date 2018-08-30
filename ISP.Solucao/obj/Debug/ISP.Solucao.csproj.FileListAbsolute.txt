@@ -1,0 +1,5 @@
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.ISP.DesignPattern\ISP.Solucao\obj\Debug\ISP.Solucao.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.ISP.DesignPattern\ISP.Solucao\bin\Debug\ISP.Solucao.dll
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.ISP.DesignPattern\ISP.Solucao\bin\Debug\ISP.Solucao.pdb
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.ISP.DesignPattern\ISP.Solucao\obj\Debug\ISP.Solucao.dll
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.ISP.DesignPattern\ISP.Solucao\obj\Debug\ISP.Solucao.pdb

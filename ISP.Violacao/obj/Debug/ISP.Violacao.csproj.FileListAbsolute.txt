@@ -1,0 +1,5 @@
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.ISP.DesignPattern\ISP.Violacao\obj\Debug\ISP.Violacao.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.ISP.DesignPattern\ISP.Violacao\bin\Debug\ISP.Violacao.dll
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.ISP.DesignPattern\ISP.Violacao\bin\Debug\ISP.Violacao.pdb
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.ISP.DesignPattern\ISP.Violacao\obj\Debug\ISP.Violacao.dll
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.SOLID.ISP.DesignPattern\ISP.Violacao\obj\Debug\ISP.Violacao.pdb
